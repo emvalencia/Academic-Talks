@@ -1,0 +1,14 @@
+Dr. Manuel Blum
+"A Computer Architecture Inspired by Neuroscience, with suggestions for the design of a Conscious AI"
+
+- Is there a difference betweeen simulated pain and real pain? Yes
+- Can a machine be conscious?
+  - Should be possible for a machine to experience: consciousness (conscious awareness),  free will, pain, joy 
+  - Consciousness is a property of all properly organized computer systems wheter made of flesh and blood or metal
+    and silicon
+- Conscious turing machine: gross simplification of a real brain 
+  o Not trying to get exact model of brain but rather to understand consciousness 
+  o Bernard Baars: consciousness if the activity of actors in a play
+    - Baars' model of consciousess (informal): https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00200/full
+  o Conscious turing machine: external input (read only), short term memory (read/write), external output (write only)
+    
