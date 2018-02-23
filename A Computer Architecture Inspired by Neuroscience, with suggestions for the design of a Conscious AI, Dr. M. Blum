@@ -1,7 +1,7 @@
 Dr. Manuel Blum
 "A Computer Architecture Inspired by Neuroscience, with suggestions for the design of a Conscious AI"
-
-- Is there a difference betweeen simulated pain and real pain? Yes
+-------------------------------------------------------------------------------------------------------------------------
+- Question: is there a difference betweeen simulated pain and real pain? Yes
 - Can a machine be conscious?
   - Should be possible for a machine to experience: consciousness (conscious awareness),  free will, pain, joy 
   - Consciousness is a property of all properly organized computer systems wheter made of flesh and blood or metal
@@ -11,4 +11,84 @@ Dr. Manuel Blum
   o Bernard Baars: consciousness if the activity of actors in a play
     - Baars' model of consciousess (informal): https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00200/full
   o Conscious turing machine: external input (read only), short term memory (read/write), external output (write only)
+    - Fast broadcast: binary tree, info is quickly received by all processors
+    - Diff processors in charge of different aspects of memory: pain/joy/fear
+    - Why is short-term memory so small? 
+    - How does info go up? Processors have info to go up tree but very little can go up, what do you choose?
+      o Only a few pain receptors = little pain, many pain receptors activated = more pain
+        - Can be represented numerically 
+        - There are connections, but not everything can be connected to one another 
+        - If you're experiencing pain and joy, the numbers add up. Joy reduces the pain
+    - How to build it?
+      o Memory of faces -> if you see this face, experience fear 
+      o Links between certain connections
+      o Not a finite state machine 
+- Oliver Sacks and the bull
+  o STM screams fear
+  o LTM processors concentrate on fear
+  o Fight and flight
+  o Flight wins
+  o Had all processors on stage fixed on fear, not given access to the stage, wouldn't have moved
+  o Tore ligaments as he was running but didn't experience pain until after his extreme fear subsided 
+- Architecture
+  o Enormous long-term memobery (LTM)
+  o Tiny short-term memory (STM)
+  o Every processor in our brain is aware of what's going on in memory, this is concsiousness
+  o Consciousness is awarenesss by all processors of all activity on stated
+  o Arises because of the activity on the stage
+  o Which LTM processors are necessary for consciousness?
+    - Necessary: inner speech, self-awareness (actor representing the conscious entity), motivation (desire and energy)
+      o Desire for food/energy (robots need to be charged, humans need food)
+    - Questionable: procedural memory creation
+    - Do not need: declaratibe memory creation, language for outer speech, face recognition, emotions 
+      o Not all people have these but are still conscious!
+        - Late Alzheimer's patients are still conscious
+      o Animals also have the necessary processors for consciousness 
+        - Rats in a maze can plan where it goes next, dogs want to please (motivation), have a way of planning 
+          something they want to do (inner speech- the ability to plan), self-awareness (distinguish yourself
+          from the rest of the world)
+- Free will paradox
+  o De Rerum Natura, 1st century B.C. by Lucretius 
+  o "All theory is agaisnt the freedom of the will; all experience is for it." - Dr. Samuel Johnson 
+  o Consciousness and the Brain - Stanislas Dehaene 
+    - Consider a chess position: actor is chess player and recognizes his or her choice of possible moves
+    - No randomness or quantum physics
+- How to engineer a machine
+  o Assume: physical explations for consciousness is possible 
+  o Why engineer a machine to feel pain? 
+    - It's expensive, you want it to take care of itself
+    - Make the machine feel pain when it sees you in pain
+    - To understand teh problem of simulating vs. experiencing pain, must distinguish insensitivity to pain from
+      indifference to pain 
+    - Pain asymbolia - condition in which pain is experienced without unpleastantness; these people are like robots
+      that can show they're in pain but do not feel pain 
+  o How to engineer extreme pain?
+    - Under severe pain, you can't do much else
+    - Any processor that tries to get on the stage is pushed away, you cannot think of anything else but the pain
+    - Doesn't work to experience pain: make reactions to pain automatic (finger away from flame), generate sweat and
+      heart rate increases
+    - Is loss of control enough? Does a machine feel real pain when it loses free will and is forced to pay attention
+      to the pain?
+    - At a hospital you can represent pain numerically on a scale of 1-10, there exists a max integer of pain (10)
+    - Small amounts of pain take away small amounts of free will, large take away large amounts 
+  o How to engineer fear? Much like pain
+  o How to engineer joy?
+   - Cannot explain joy the way you explain pain
+   - How does a processor for joy getting on stage give the entity the experience of joy?
+   - Joy can be explained as success in the world
+   - Explanation for joy: with the absense of negative emotions, the body is in a natural state of joy - a Buddhist idea 
+     o Is this the natural state of a robot?
+   - Possible solution: In case of great joy, the conscious mind thinks about whatever it wants to think about, can think about
+     other things, attent that is fere to roam wehrever and the enbironment might take it. Built-in 
+  o How to engineer motivation?
+    - Left hemi-spacial neglect, are not motivated to look at the left side of their world; are unconcsious about what's
+      on the left side 
+      o Give them a plate of food and they will only eat the right side, even if they are hungry; cannot process right side,
+        need to turn the plate around and they will continue to eat 
+
+  
+  
+  
+  
+        
     
